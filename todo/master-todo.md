@@ -7,12 +7,12 @@ Legend: 🔴 Urgent/foundational | 🟡 Next 30 days | 🟢 Phase 2+ | ✅ Done
 
 ## FOUNDATION (Do These First)
 
-- [ ] 🔴 Choose a working name — needed before any public-facing work
-- [ ] 🔴 Recruit a clinical advisor — must be attached before any content goes live; defines credibility. Professor Terry Fleming (University of Auckland) is the obvious first contact.
-- [ ] 🔴 Define safeguarding protocol — what happens if someone reaches out in crisis? Must be answered before launch
-- [ ] 🔴 Decide legal/entity structure — incorporated society, charitable trust, or company? Affects grant eligibility
-- [ ] 🔴 Set up project email address — needed for grant applications and contacts
-
+- [ ] 🔴 Choose a working name — needed before anything else below can happen
+- [ ] 🔴 Secure domain/URL — once name is chosen, register immediately (before anyone else does). Sets up the web address, email addresses (e.g. hello@[name].co.nz), and signals legitimacy to funders and partners. Use .co.nz for NZ credibility, consider also securing .org.nz and .nz variants.
+- [ ] 🔴 Set up project email — once domain is secured, set up hello@ or contact@ for external contacts and grant applications. Use Google Workspace ($10-15/month) for professional email and shared docs.
+- [ ] 🔴 Recruit a clinical advisor — must be attached before any content goes live. Professor Terry Fleming (University of Auckland) is the obvious first contact.
+- [ ] 🔴 Define safeguarding protocol — what happens if someone reaches out in crisis? Must be answered before launch.
+- [ ] 🔴 Decide legal/entity structure — incorporated society, charitable trust, or company? Affects grant eligibility. Charitable trust likely best fit — enables grants and donations, relatively simple to set up.
 ---
 
 ## RESEARCH
