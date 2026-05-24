@@ -1,86 +1,21 @@
-# Instructions for Caroline — Getting Set Up
+# NZ Landscape Research
 
-Hi Caroline 👋
-
-Here's how to use our GitHub repo with your own Claude account so we can work on this project together seamlessly.
-
----
-
-## Step 1 — Access the Repo
-
-The repo is at: **[PASTE GITHUB URL HERE once created]**
-
-You'll need a GitHub account (free). Once you have one, let [Name] know your username so they can add you as a collaborator.
+Last updated: May 2026 (initial research by Caroline)  
+Status: First pass complete — needs deepening
 
 ---
 
-## Step 2 — How to Start a Claude Session
+## Key Statistics
 
-At the start of **every** Claude session on this project:
+| Metric | Figure | Source |
+|--------|--------|--------|
+| Lifetime self-harm history (NZ adolescents) | ~49% (F: 49.4%, M: 48%) | Victoria University community study |
+| Secondary students with no significant MH symptoms (2019) | 40% | Youth19 |
+| Students with 100% suicide attempt prevalence (severe cluster) | ~6% | Youth19 |
+| Depression rate (2019) | 23% (up from 12% in 2012) | Youth19 |
+| NZ child/youth mental health ranking | Last among OECD countries | UNICEF 2025 |
+| Youth suicide rate (15-19 yr olds) vs high-income country avg | Nearly 3x higher | Te Whatu Ora |
 
-1. Go to the repo and open **`STEERING.md`**
-2. Click the **Raw** button (top right of the file view)
-3. Select all and copy the text
-4. In Claude, start your session with:
-
-> *"I'm working on a project with my husband. Here is our shared steering file — please read it before we start:"*
-> 
-> [paste STEERING.md contents]
->
-> *"Today I want to work on: [describe what you want to do]"*
-
-That's it. Claude will have full context and can pick up exactly where we left off.
-
----
-
-## Step 3 — Loading Other Files
-
-If you want to work on something specific, also copy/paste the relevant file:
-
-- Researching international resources? Load `research/international.md`
-- Working on the business case? Load `docs/business-case.md`  
-- Checking what's next? Load `todo/master-todo.md`
-
----
-
-## Step 4 — Saving Your Work Back
-
-After a good session:
-
-1. Copy Claude's output (the useful bits — notes, drafts, decisions)
-2. Open the relevant file in GitHub and click the **pencil icon** to edit
-3. Paste in the new content
-4. Scroll down and click **Commit changes** with a short note (e.g. "Add YoungMinds research notes")
-
-Or just **email/message [Name]** your session output and they can commit it.
-
----
-
-## Step 5 — Setting Up a Claude Project (Optional but Recommended)
-
-If you use **Claude Projects** (available in Claude.ai):
-
-1. Create a new Project called something like "Family Resource Project"
-2. In the Project instructions, paste the contents of `STEERING.md`
-3. This way you don't have to paste the steering file every single time — it's always there
-
-Update your Project instructions whenever STEERING.md changes significantly.
-
----
-
-## The Key Files to Know
-
-| File | What it is |
-|------|-----------|
-| `STEERING.md` | The shared brain — load every session |
-| `todo/master-todo.md` | What needs doing and in what order |
-| `admin/decisions-log.md` | What we've decided and why |
-| `research/nz-landscape.md` | NZ stats and existing resources |
-| `research/international.md` | International comparators — needs researching |
-| `research/ai-in-mh.md` | AI opportunities — needs researching |
-
----
-
-## Questions?
-
-If anything doesn't make sense, just ask [Name] or ask Claude directly — paste in the STEERING.md and say "explain how this repo-based collaboration works."
+### Disproportionately Affected Groups
+- Maori youth — depressive symptoms rose from 14% to 28% (2012-2019); suicide attempts doubled to 13%
+- Rainbow/LGBTQ+ youth — 64% have thought about suicide; 10% have a
