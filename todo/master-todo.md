@@ -1,80 +1,56 @@
-# Project Steering File
-## Shared context for both Claude sessions — load this at the start of every conversation
+# Master Todo List
 
-**Last updated:** May 2026  
-**Project working title:** TBD (see `admin/decisions-log.md`)  
-**Active contributors:** [Name 1] + Caroline  
+Last updated: May 2026  
+Legend: 🔴 Urgent/foundational | 🟡 Next 30 days | 🟢 Phase 2+ | ✅ Done
 
 ---
 
-## What This Project Is
+## FOUNDATION (Do These First)
 
-A New Zealand-focused digital resource and education platform for **parents of young people who self-harm**.
-
-The founding insight: there is no dedicated, parent-centred hub for self-harm in New Zealand. Everything that exists is scattered, generic, or aimed at clinicians. We are building the resource we wish had existed when we needed it.
-
-This project is founded on lived family experience combined with commercial and research skills.
-
----
-
-## The Problem We're Solving
-
-- NZ ranks **last among OECD countries** for child and youth mental health (UNICEF 2025)
-- ~49% of NZ adolescents have a lifetime history of self-harm
-- Parents who discover their child is self-harming have **nowhere specific to turn**
-- Shame, stigma, and silence compound the crisis — parents feel alone and at fault
-- Existing resources are scattered, generic, or clinician-facing
-
-**The reframe that makes this different:** normalising the conversation for parents so they don't feel alone or ashamed.
+- [ ] 🔴 Choose a working name — needed before any public-facing work
+- [ ] 🔴 Recruit a clinical advisor — must be attached before any content goes live; defines credibility. Professor Terry Fleming (University of Auckland) is the obvious first contact.
+- [ ] 🔴 Define safeguarding protocol — what happens if someone reaches out in crisis? Must be answered before launch
+- [ ] 🔴 Decide legal/entity structure — incorporated society, charitable trust, or company? Affects grant eligibility
+- [ ] 🔴 Set up project email address — needed for grant applications and contacts
 
 ---
 
-## Phased Model
+## RESEARCH
 
-| Phase | Focus | Revenue |
-|-------|-------|---------|
-| 1 | Free resource — content, credibility, audience | Grants |
-| 2 | Schools as paying customers — counsellor toolkit, parent workshops | School licensing |
-| 3 | Courses and community for parents — online programmes, membership | Paid courses, membership |
+### NZ Landscape
+- [x] ✅ Initial NZ landscape research (Caroline — May 2026)
+- [x] ✅ NZ landscape deepened — organisations, research base, system gaps mapped (May 2026)
+- [ ] 🟡 Safe messaging guidelines — find NZ and international guidelines for self-harm content (check Ministry of Health, MHF, MediaSafe NZ, WHO)
+- [ ] 🟡 Monitor Cure Kids parent resource project — they are funding something similar; collaborate or complement?
+- [ ] 🟡 Grant landscape — assess eligibility, amounts, and deadlines for: Ministry of Health, MHF community grants, ACC, Lion Foundation, Lottery, community trusts
+- [ ] 🟡 Deep dive on Yellow Brick Road — meet with them, understand partnership potential
 
----
+### International Offerings
+- [x] ✅ International landscape research — UK, Australia, USA mapped (May 2026)
+- [ ] 🟡 Study Youth Mental Health Foundation (YMHF) in depth — review full course content, pricing, Power2Parent and OASIS community models. Closest international comparator.
+- [ ] 🟡 Study Stem4 school licensing model — understand pricing and structure for our Phase 2
+- [ ] 🟡 Study ReachOut Parents one-on-one coaching model — potential Phase 2/3 revenue stream we haven't listed yet
 
-## Key Decisions Made
-
-See `admin/decisions-log.md` for full history.
-
-- **Collaboration model:** Shared GitHub repo as single source of truth; both partners use their own Claude accounts referencing this repo
-- **Revenue model:** Mixed — grants + school licensing + paid courses (no advertising)
-- **Primary audience:** Parents/whānau (not young people directly)
-- **Primary NZ referral partner:** Yellow Brick Road (0800 732 825)
-
----
-
-## Key Decisions Pending
-
-- Working name / brand
-- Clinical advisor (critical — recruit early)
-- Technology stack for the site
-- Legal/entity structure
-- Whether to use AI on the site itself (strong interest — see todo list)
+### AI and Technology
+- [x] ✅ AI in mental health platforms research — landscape, risks, opportunities mapped (May 2026)
+- [ ] 🟡 Study Headstrong NZ and their Aroha chatbot — only NZ platform with AI; what can we learn?
+- [ ] 🟡 Technology stack decision — what platform/CMS to build on?
+- [ ] 🟢 Claude API proof of concept — build a simple parent navigation assistant prototype
 
 ---
 
-## How to Use This File
+## BUSINESS DEVELOPMENT
 
-**At the start of every Claude session:**
-> "I'm working on a project — here is the steering file: [paste STEERING.md]. I also want to share today's working file: [paste relevant doc from /docs or /todo]."
-
-**At the end of every session:**
-- Paste any updates back into the relevant file and commit to the repo
-- If a key decision was made, add it to `admin/decisions-log.md`
-- Update the `Last updated` date at the top of this file if you changed anything here
+- [ ] 🟡 Refine business case — add one-on-one coaching as Phase 2/3 revenue stream (from ReachOut Parents model)
+- [ ] 🟡 Identify first 3 grant targets — with amounts, deadlines, and fit assessment
+- [ ] 🟡 Map school counsellor landscape — how many schools, who makes buying decisions, what do they need? (Ministry of Education Suicide Prevention Action Plan Actions 1-2 is relevant context)
+- [ ] 🟢 Build financial model — revenue by phase, costs, break-even
+- [ ] 🟢 Corporate sponsorship targets — insurers, banks, employers with family/wellbeing focus
 
 ---
 
-## Critical Constraints (Non-Negotiable)
+## CONTENT AND SITE
 
-1. **Clinical credibility** — attach a clinical advisor before publishing anything
-2. **Safeguarding** — define crisis response protocol before launch
-3. **Contagion-safe content** — all content must follow evidence-based safe messaging guidelines
+- [ ] 🟡 Draft site information architecture — what pages and sections does the resource need?
+- [ ] 🟡 Define ton
 4. **No advertising** — trust is the product; ads undermine it
