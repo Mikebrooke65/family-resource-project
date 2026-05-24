@@ -1,50 +1,38 @@
-# AI in Mental Health & Education Platforms
+# Project Steering File
+## Shared context for both Claude sessions — load this at the start of every conversation
 
-Last updated: —  
-Status: Not started — high priority research area
-
----
-
-## Why This Matters for Our Project
-
-People access this resource at challenging moments — late at night, in shock, frightened. A well-designed AI assistant on the site could:
-
-- Guide parents to the most relevant content for their situation
-- Provide a warm, non-judgmental first point of contact
-- Reduce the overwhelming feeling of "where do I start"
-- Be available 24/7 when human support isn't
-
-This is potentially a genuine differentiator — most existing resources are static. But it carries real risks and requires careful design.
+**Last updated:** May 2026  
+**Project working title:** TBD (name brainstorming pending)  
+**Active contributors:** Mike + Caroline  
 
 ---
 
-## Research Questions
+## What This Project Is
 
-### AI on the Resource Site
-- [ ] What are best-practice examples of AI assistants on mental health sites?
-- [ ] What safeguarding requirements apply to AI in this context?
-- [ ] How do you design an AI interaction that feels warm and safe, not clinical or robotic?
-- [ ] What should an AI assistant NEVER do in this context? (e.g. risk assessment, advice-giving)
-- [ ] Technical options — chatbot builders, Claude API, GPT, purpose-built MH tools?
+A New Zealand-focused digital resource and education platform for **parents of young people who self-harm**.
 
-### AI for Course Delivery
-- [ ] What does AI-powered online education look like?
-- [ ] Examples of AI tutors / personalised learning in health education
-- [ ] Can AI adapt course content to where a parent is emotionally / practically?
+The founding insight — now confirmed by research: there is no dedicated, parent-centred resource for self-harm anywhere in New Zealand. Every existing NZ digital mental health tool is youth-facing. Not one is parent-facing. Not one is self-harm specific. We are building the resource we wish had existed when we needed it.
 
-### Risks & Guardrails
-- [ ] What are the documented risks of AI in mental health contexts?
-- [ ] What does responsible AI deployment look like here?
-- [ ] Regulatory considerations in NZ
+This project is founded on lived family experience combined with commercial and research skills.
 
 ---
 
-## Findings
+## The Positioning Statement
 
-*Add as research progresses*
+> "When your child is self-harming, everything you find online is written for them. This is written for you."
+
+This captures the entire gap, the entire audience, and the entire reason this needs to exist. Use it to guide every content and design decision.
 
 ---
 
+## The Problem We're Solving
+
+- NZ ranks **last among OECD countries** for child and youth mental health (UNICEF 2025)
+- 25-50% of NZ secondary school students self-harm in any given year (Fleming et al. 2020)
+- ~49% lifetime self-harm history among NZ adolescents
+- Parents who discover their child is self-harming have **nowhere specific to turn**
+- CAMHS only accepts moderate-severe cases — most self-harm presentations are turned away
+- GPs and school counsellors are under-r
 ## Key Principle (Working Assumption)
 
 > AI on this platform should be a **guide and connector**, not a counsellor. It helps parents find what they need. It does not assess risk, provide therapy, or substitute for human support. It always knows when to hand off to a human or helpline.
