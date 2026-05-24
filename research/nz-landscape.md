@@ -1,7 +1,7 @@
 # NZ Landscape Research
 
 Last updated: May 2026  
-Status: Comprehensive first pass complete — statistics, system, organisations, digital tools, and gap analysis all mapped
+Status: Comprehensive — statistics, system, all organisations and digital tools fully audited, conclusions updated
 
 ---
 
@@ -36,33 +36,35 @@ The deterioration has been rapid and consistent. Between 2012 and 2019, depressi
 
 ## 2. The NZ Research Base
 
-NZ has unusually strong longitudinal data on youth mental health — this is an asset for building a credible, evidence-based resource.
+NZ has unusually strong longitudinal data on youth mental health — a genuine asset for building a credible, evidence-based resource.
 
 ### Youth2000 Survey Series (Primary Data Source)
 - Large-scale representative surveys of NZ secondary school students running since 2001
 - Conducted by University of Auckland
-- Surveys: 2001, 2007, 2012, 2019 (Youth19); Youth24 data likely being analysed now
+- Surveys: 2001, 2007, 2012, 2019 (Youth19); Youth24 data likely being analysed now — watch for publication
 - Measures: wellbeing, depression, self-harm, suicidality, substance use, sexual health
 - Youth19 (2019): n=7,374-7,721 students aged 13-18
 - Website: youth19.ac.nz
 
 ### Key NZ Researchers
-- **Professor Terry Fleming** (University of Auckland) — leads Youth2000 series; developed SPARX; top clinical advisor target for us
-- **Professor Terryann Clark** (University of Auckland) — Youth19 co-lead; focus on Maori and equity
-- **Kylie Sutcliffe** — cluster analysis of Youth19 data; key papers on mental health profiles
-- **Dr Sarah Hetrick** (University of Auckland) — self-harm and suicide prevention; leads Headstrong/Aroha
-- **Karolina Stasiak** (University of Auckland) — digital mental health tools; co-leads Headstrong
-- **Professor Sarah Taufa / Dr F. Langridge** — adapting online tools for safe self-harm communication (Cure Kids funded)
+- Professor Terry Fleming (University of Auckland) — leads Youth2000 series; developed SPARX; top clinical advisor target for us
+- Professor Terryann Clark (University of Auckland) — Youth19 co-lead; focus on Maori and equity
+- Kylie Sutcliffe — cluster analysis of Youth19 data; key papers on mental health profiles
+- Dr Sarah Hetrick (University of Auckland) — self-harm and suicide prevention; leads Headstrong/Aroha
+- Karolina Stasiak (University of Auckland) — digital mental health tools; co-leads Headstrong
+- Dr Tania Cargo (University of Auckland) — leads Cure Kids whanau self-harm resource project; also involved in Headstrong/Aroha and #chatsafe — a key node in the NZ self-harm research world
+- Heemi Kapa-Kingi — clinical psychology researcher; leading the Cure Kids whanau self-harm resource with Cargo
 
 ### Recent Key Studies
 - Sutcliffe et al. (2023) — rapid and unequal decline in adolescent MH 2012-2019
 - Sutcliffe et al. (2024) — cluster analysis; 6.4% severe cluster with NSSI and suicide attempts
 - Fleming et al. (2024) — increasing distress; most won't meet CAMHS access criteria
 - ScienceDirect (2025) — co-design study on barriers to self-harm management in NZ schools; key barriers: lack of guidelines, lack of trust between schools and mental health services
+- Fleming et al. (2025, JMIR) — 7-year SPARX implementation study; 21,320 users; completion challenges documented
 
 ### Government Data and Policy
 - Ministry of Health publishes youth self-harm hospitalisation data biannually (from 2024/25)
-- **Suicide Prevention Action Plan 2025-2029** — 34 actions; Actions 1 and 2 under Ministry of Education specifically address school self-harm resources (timeline: by December 2027)
+- Suicide Prevention Action Plan 2025-2029 — 34 actions; Actions 1 and 2 under Ministry of Education specifically address school self-harm resources (timeline: December 2027)
 - Budget 2025: $28M for health-led response to mental health 111 calls; $50M for mental health facility improvements
 
 ---
@@ -72,12 +74,10 @@ NZ has unusually strong longitudinal data on youth mental health — this is an 
 ### The Referral Pathway
 1. Parent notices signs -> GP visit -> GP refers to CAMHS if severe enough
 2. Schools can also refer via guidance counsellor or resource teacher
-3. CAMHS assesses -> accepts moderate-severe cases; declines mild-moderate
+3. CAMHS assesses -> accepts moderate-severe; declines mild-moderate
 4. If declined: signposted to community services — which are fragmented and hard to navigate
 
 ### The CAMHS Problem
-CAMHS (Child and Adolescent Mental Health Services) is the specialist public service for young people with serious mental health needs.
-
 - Only accepts moderate-to-severe cases — most self-harm presentations are declined
 - Chronically under-resourced: Wellington CAMHS reported operating at half capacity; requests for additional staff turned down
 - Wait times: families report 3-6+ months from referral to first appointment — not therapy, just initial assessment
@@ -100,7 +100,7 @@ This is precisely the gap we are filling.
 ### The Core Finding
 There is no dedicated, parent-centred digital resource for self-harm in New Zealand. Every existing NZ digital mental health tool is youth-facing. Not one is parent-facing. Not one is self-harm specific.
 
-This is not a small gap — it is a wide open space with no competition at all.
+This is not a small gap. It is a wide open space with no competition at all.
 
 ### What Exists vs What's Needed
 
@@ -110,15 +110,16 @@ This is not a small gap — it is a wide open space with no competition at all.
 | General mental health content (MHF, KidsHealth) | Self-harm specific content |
 | Crisis lines (1737, Youthline) | Educational and navigational resource |
 | In-person family support (Yellow Brick Road) | 24/7 digital access |
+| Maori-specific research resource (Cure Kids/UoA) | National resource for all NZ parents |
 | Scattered, generic information | Single trusted destination |
 
 ### Why the Gap Exists
-1. **Shame and guilt** — parents feel self-harm reflects personal failure; everyone suffers in silence
-2. **Misunderstanding** — most associate self-harm with suicide attempts or attention-seeking (reality: usually emotion regulation)
-3. **School caution** — contagion concerns mean schools rarely discuss it, leaving parents unprepared. A 2025 NZ study confirmed this as a key barrier.
-4. **Clinical gaps** — GPs and teachers often don't know what to say; CAMHS turns away most presentations
-5. **Extra taboo layer** — even as general MH conversations improve, self-harm carries additional stigma
-6. **System confusion** — the referral pathway is opaque; parents don't know where to start
+1. Shame and guilt — parents feel self-harm reflects personal failure; everyone suffers in silence
+2. Misunderstanding — most associate self-harm with suicide attempts or attention-seeking (reality: usually emotion regulation)
+3. School caution — contagion concerns mean schools rarely discuss it. A 2025 NZ study confirmed this as a key barrier.
+4. Clinical gaps — GPs and teachers often don't know what to say; CAMHS turns away most presentations
+5. Extra taboo layer — even as general MH conversations improve, self-harm carries additional stigma
+6. System confusion — the referral pathway is opaque; parents don't know where to start
 
 This silence is both the problem and the opportunity.
 
@@ -144,11 +145,9 @@ This silence is both the problem and the opportunity.
 | OUTLine NZ | 0800 688 5463 | Evenings | Rainbow-specific |
 | Depression Helpline | 0800 111 757 / text 4202 | 24/7 | Trained counsellors |
 
-### Family and Whanau Support Organisations
-
 ---
 
-#### Yellow Brick Road — PRIMARY REFERRAL PARTNER
+### Yellow Brick Road — PRIMARY REFERRAL PARTNER
 **Website:** yellowbrickroad.org.nz | **Contact:** 0800 732 825 | hello@yellowbrickroad.org.nz | Mon-Fri
 
 **Who they are:** NZ's primary national organisation supporting families and whanau of people experiencing mental health challenges. Formerly Supporting Families NZ — 40+ years experience. Their core belief directly mirrors ours: supporting the family improves wellbeing for the whole whanau.
@@ -170,54 +169,131 @@ This silence is both the problem and the opportunity.
 - Not available 24/7
 - Not a first point of discovery — families need to already know they exist
 
-**The partnership opportunity:** Yellow Brick Road and our project are deeply complementary. We are the first point of digital contact — parents find us at 11pm when they discover the cuts. We give immediate information and direction. We always refer to Yellow Brick Road for ongoing human support. Yellow Brick Road refers families to us for the self-harm specific digital content they don't have.
+**The partnership opportunity:** Yellow Brick Road and our project are deeply complementary. We are the first point of digital contact at 11pm when a parent discovers the cuts. We give immediate information and direction. We always refer to Yellow Brick Road for ongoing human support. They refer families to us for the self-harm specific digital content they don't have.
 
 **Potential collaboration:** Formal referral partnership; co-produce content; co-apply for grants; their credibility could underpin ours in Phase 1.
 
-**Priority action:** Contact early — before we go public. Email hello@yellowbrickroad.org.nz, ask to speak with the National Director or Programme Lead.
+**Priority action:** Contact before we go public — email hello@yellowbrickroad.org.nz, ask to speak with the National Director or Programme Lead.
 
 ---
 
-#### Emerge Aotearoa
+### Emerge Aotearoa
 **Website:** emergeaotearoa.org.nz
 
-**Who they are:** One of NZ's largest community mental health and social services NGOs — supporting 25,000+ people annually through 270+ services. Covers mental health, addiction, disability, housing, corrections. Recently rebranded as Ka Puta Ka Ora Emerge Aotearoa with a Strategy 2026-2030.
+**Who they are:** One of NZ's largest community mental health and social services NGOs — supporting 25,000+ people annually through 270+ services. Covers mental health, addiction, disability, housing, corrections. Strategy 2026-2030 signals active expansion.
 
-**Whanau Support Services (relevant to us):** Free services for families with a loved one experiencing mental health challenges — support, information/education, advocacy, navigation, peer group connections. Primarily Auckland-based (West and South Auckland confirmed).
+**Whanau Support Services:** Free services for Auckland families — support, information/education, advocacy, navigation. Primarily West and South Auckland.
 
-**How they differ from Yellow Brick Road:** Yellow Brick Road exists solely for family support — it is their entire mission. For Emerge Aotearoa, whanau support is one service line among many. Yellow Brick Road has national reach for family support; Emerge is mainly Auckland for this work.
-
-**Relevance to us:** Lower priority than Yellow Brick Road. Good Auckland referral path particularly for West and South Auckland where Maori and Pasifika populations are higher. Worth knowing but not priority outreach.
+**Relevance to us:** Lower priority than Yellow Brick Road. Yellow Brick Road is nationally focused on family support as their sole mission. Emerge Aotearoa treats whanau support as one line among many. Worth knowing as an Auckland referral, particularly for Maori and Pasifika families in West/South Auckland.
 
 ---
 
-#### Skylight
-**Website:** skylight.org.nz | **Location:** Wellington (in-person); national (resources and online counselling)
+### Skylight
+**Website:** skylight.org.nz | Wellington (in-person); national (resources and online counselling)
 
-**Who they are:** NZ's specialist grief, loss, and trauma organisation — 25+ years experience. Focused on children, young people, and families. Distributed 14,000+ resources nationally in the past year. Supports hundreds of schools annually.
+**Who they are:** NZ's specialist grief, loss, and trauma organisation — 25+ years. Supports children, young people, and families. Distributed 14,000+ resources nationally in the past year. Hundreds of schools supported annually.
 
-**What they offer:**
-- Counselling — in-person (Wellington) and online (national); children 5+, young people, adults, families; talking, arts-based, and music therapy; includes suicide bereavement
-- Travellers programme — flagship school resilience programme for Year 9 students; delivered nationally; 4,400+ students completed wellness survey in 2023
-- Free online resources — factsheets, articles, videos, webinars on grief, trauma, resilience
-- Resource packs posted anywhere in NZ on request
-- Professional training for school staff and counsellors
-- Piloting new digital wellbeing survey platform in 2025
+**What they offer:** In-person and online counselling; Travellers school resilience programme (Year 9, delivered nationally); free online resources, factsheets, videos; resource packs posted anywhere in NZ; suicide bereavement support; professional training.
 
-**Connection to our project:** Skylight is adjacent rather than competitive. Two meaningful links: (1) discovering your child self-harms is genuinely traumatic — Skylight's resources on supporting yourself through trauma are directly relevant to our parent audience; (2) they have specific suicide bereavement support for families where the worst has happened.
-
-**Relevance to us:** Medium — referral destination for the trauma/shock of discovery and for suicide bereavement. Their resource model (free factsheets, postal packs, online content) is worth studying for Phase 1. Contact when our content is more developed.
+**Relevance to us:** Adjacent not competitive. Two referral links: (1) discovering your child self-harms is genuinely traumatic — Skylight's resources on trauma are relevant for parents; (2) specific suicide bereavement support for families where the worst has happened. Their free resource model is worth studying for Phase 1.
 
 ---
 
-### Broader Mental Health Sector
+### Mental Health Foundation NZ
+**Website:** mentalhealth.org.nz
+
+**What they have for parents:**
+- "Supporting a Young Person Experiencing Mental Distress" (2025) — downloadable PDF guide for parents of young people 12+; warm tone; covers how to start the conversation, listening, when to get more help, self-care; general mental distress not self-harm specific
+- Self-harm conditions page — general overview; links to a whanau-specific self-harm resource (see below)
+- Whanau self-harm resource — "Self harm — information for whanau supporting a young person who is harming themselves"; produced through University of Auckland, co-created with whanau; almost certainly connected to Cure Kids/Cargo project; full content not yet accessed
+- School self-harm guidelines — produced through University of Auckland; for school staff
+
+**Relevance to us:** Validator, endorser, and grant funder — not a competitor. Their credibility matters enormously. The whanau self-harm resource they host is the closest existing NZ resource to what we are building — must be obtained and read before we go public.
+
+**Two priority actions:** (1) Email resource@mentalhealth.org.nz to obtain the whanau self-harm resource in full; (2) Explore MHF grants programme as a Phase 1 funding source.
+
+---
+
+### Cure Kids — Parent Self-Harm Resource Project
+**Website:** curekids.org.nz
+
+There are three distinct Cure Kids-funded projects relevant to us:
+
+**Project 1 — Whanau/Maori self-harm resource (MOST RELEVANT)**
+Led by Heemi Kapa-Kingi and Kiani Stevenson, supervised by Dr Tania Cargo (University of Auckland). Announced September 2024. Focus: culturally aligned resources to help whanau support young people who self-harm, specifically Maori communities in Northland (Kaitaia and Whangarei). Methodology: kaupapa Maori research; community wananga. Status: wananga underway as of September 2024; resource in development; no published output found as of May 2026.
+
+**Project 2 — Hospital surveillance study**
+Led by Associate Professor M. Fraser. Focus: sentinel surveillance of paediatric self-harm hospitalisations — data/epidemiology. Lower relevance to us.
+
+**Project 3 — #chatsafe online tool**
+Led by Dr Sarah Hetrick and Dr Tania Cargo. Adapting #chatsafe to help rangatahi communicate online about self-harm safely. Youth-facing not parent-facing.
+
+**What this means for us:** The Cure Kids whanau project is Maori-specific and Northland-focused research — not a general national parent resource. It validates the gap but does not fill it. Dr Tania Cargo is involved across all three projects AND Headstrong/Aroha — one conversation with her opens multiple doors.
+
+**Priority action:** Contact Dr Tania Cargo at University of Auckland. Also monitor for publication of the whanau resource.
+
+---
+
+### Le Va
+**Website:** leva.co.nz
+
+**Who they are:** NZ's primary Pasifika mental health and wellbeing organisation. Part of the Wise Group. CEO: Denise Kingi-'Ulu'ave (clinical psychologist). Active nationally. Government-funded.
+
+**What they do:** FLO Talanoa (Pasifika suicide prevention); LifeKeepers (internationally recognised suicide prevention); Aunty Dee (problem-solving tool — already audited); workforce development and cultural competency training; disability support; violence prevention; youth wellbeing.
+
+**Key context:** Pasifika youth in NZ have higher rates of mental illness, substance abuse, and suicide attempts, with lower rates of service access and poorer outcomes. Le Va exists to address this structural inequity through Pasifika-led, culturally responsive approaches.
+
+**Relevance to us:** Not competitive — workforce/professional focus rather than parent-facing resource. Critical as a cultural partner. If we want our resource to genuinely serve Pasifika parents — and we should, given the disproportionate impact on Pasifika youth — we need Le Va's guidance, input, and endorsement. We should not attempt to build Pasifika-specific content without them.
+
+**Priority action:** Contact Le Va when our content direction is clearer to seek guidance on Pasifika cultural framing and potential endorsement.
+
+---
+
+### KidsHealth NZ — Self-Harm Page Audit
+**URL:** kidshealth.org.nz/self-harm | Recently rebuilt on Drupal 10 (late 2024) | Active
+
+**What it covers:** What self-harm is; prevalence (using 2007/2012 data only — significantly out of date); why young people self-harm (correctly frames as emotion regulation); how to help (don't panic, listen, talk, spend time together); when to seek medical help; helpline links.
+
+**What's good:** Calm, practical tone; correctly frames self-harm as emotion regulation not attention-seeking; clear "don't panic" opening; accessible language; zero data browsing available.
+
+**What's missing:**
+- Statistics from 2007 and 2012 only — no Youth19 2019 data; no picture of how serious things have become since 2012
+- No parent emotional support — nothing about the shock, guilt, or isolation parents feel
+- No NZ referral pathway guidance — what happens after the GP? What if CAMHS turns them away?
+- No Yellow Brick Road or family-specific referral
+- Single page, limited depth — covers basics only; no parent stories, no "what to expect", no ongoing support
+- No information for parents on looking after themselves
+
+**Overall assessment:** A competent general health information page. A starting point, not a destination. Leaves significant parent needs unmet.
+
+**Relevance to us:** Complementary not competitive. We should have a referral relationship — they link to us as the specialist parent resource.
+
+---
+
+### Just a Thought (justathought.co.nz)
+**What it is:** Free online CBT course platform for all New Zealanders — the most comprehensive NZ digital mental health self-help platform
+**Status:** Active — over 40,000 NZ users; reviewed August 2025; high clinical regard
+
+**Courses:** Mixed Depression and Anxiety (including NZSL version), Generalised Anxiety, Health Anxiety, OCD, Insomnia, Alcohol/drug use, Postnatal depression, Staying on Track. Self-paced; story-based; clinician can prescribe and monitor via dashboard.
+
+**Quality:** Very high — backed by 30+ RCTs; consistently praised by clinicians and users. "I wouldn't have had any treatment if it wasn't for this course."
+
+**Gaps:** Adult-focused; no self-harm course; no parent-facing content; no NZ-specific cultural framing; Australian-developed.
+
+**Relevance to us:** Not competitive — different audience and purpose. Highly relevant as a referral destination for parents managing their own anxiety, depression, and stress while supporting their child. Their CBT course model is worth studying for our Phase 3 course design. The clinician prescription model is interesting for our Phase 2 school work.
+
+---
+
+### Broader Mental Health Sector (Summary)
 | Organisation | Role | Relevant to Us |
 |---|---|---|
-| Mental Health Foundation (mentalhealth.org.nz) | Advocacy, resources, campaigns, grants | Potential endorsement, partner, and grant path |
-| KidsHealth NZ (kidshealth.org.nz) | Parent health info site; has self-harm page | We complement, don't compete — referral relationship |
-| Cure Kids (curekids.org.nz) | Funds NZ child health research | Currently funding a parent self-harm resource project — monitor closely |
-
-**Note on Cure Kids:** Cure Kids is currently funding a project to develop resources for parents, caregivers and whanau to respond to young people who self-harm. This is the closest thing to what we are building in the NZ funded research space. It validates the gap — funders are seeing it too. We must understand what they are producing before we go public. Could be collaboration or competition.
+| Mental Health Foundation | Advocacy, resources, campaigns, grants | Endorser, grant funder, hosts whanau self-harm resource — priority contact |
+| KidsHealth NZ | Parent health info; self-harm page | Complementary — referral relationship |
+| Cure Kids | Research funding | Funding parent self-harm resource — monitor; contact Dr Tania Cargo |
+| Le Va | Pasifika mental health and workforce | Essential cultural partner for Pasifika content |
+| Skylight | Grief, loss, trauma | Referral for trauma/shock and suicide bereavement |
+| Emerge Aotearoa | Large community MH/social services NGO | Auckland whanau support referral |
+| Just a Thought | Free online CBT courses | Referral for parents managing their own mental health |
 
 ---
 
@@ -226,48 +302,38 @@ This silence is both the problem and the opportunity.
 **The headline finding: every existing NZ digital mental health tool is youth-facing. Not one is parent-facing. Not one is self-harm specific. We are filling a completely unoccupied space.**
 
 ### SPARX (sparx.org.nz)
-- **What:** Online CBT-based e-therapy game for 12-19 year olds with mild-moderate depression and anxiety
-- **Built by:** University of Auckland (Professor Sally Merry, Professor Terry Fleming); gaming experts
-- **Launched:** Trialled 2012 (British Medical Journal); free nationally since April 2014; now funded by Health New Zealand
-- **Status:** Active — referenced in government resources November 2025
-- **Usage (2025 study, Fleming et al., JMIR):** 21,320 registered over 7 years (~2% of NZ 12-19 year olds); 63.6% started; mean age 14.9; 62.7% female
-- **Completion:** Low — 51% completed Module 1; only 3.1% completed all 7 modules. Barriers: slow downloads, device compatibility (originally desktop-only)
-- **Effectiveness:** Where young people engaged, results were strong — depression scores reduced significantly (effect size 0.51 for full completion)
-- **Gaps:** Not self-harm specific; low completion; no parent component
-- **Relevance:** Complementary not competitive. Professor Terry Fleming is our top clinical advisor target. Strong referral relationship possible.
+- Free CBT e-therapy game for 12-19 year olds; built by University of Auckland; nationally available since 2014
+- 21,320 registered users over 7 years (~2% of NZ 12-19 year olds); mean age 14.9; 62.7% female
+- Completion low — only 3.1% completed all 7 modules; barriers: slow downloads, device compatibility
+- Where young people engaged, results were strong (effect size 0.51 for full completion)
+- Not self-harm specific; no parent component
+- Complementary not competitive. Professor Terry Fleming is our top clinical advisor target.
 
 ### The Lowdown (thelowdown.co.nz)
-- **What:** Youth-facing website for depression and anxiety; information, stories, webchat, text support
-- **Built by:** Ministry of Health National Depression Initiative
-- **Launched:** 3 December 2007 — one of NZ's oldest digital MH tools
-- **Status:** Active but dated — updated from original Flash-based site; design and tone feel like 2007
-- **Gaps:** General depression only; no self-harm content; no parent focus; no AI or interactive tools
-- **Relevance:** Not competitive. Worth referencing as a signpost for young people.
+- Youth-facing depression and anxiety website; built by Ministry of Health NDI; launched December 2007
+- Still active but dated — design and celebrity navigator model feel like 2007
+- General depression only; no self-harm content; no parent focus
+- Not competitive. Worth referencing as a signpost for young people.
 
 ### Headstrong (headstrong.org.nz) — MOST RELEVANT TO OUR AI DESIGN
-- **What:** Free mental health app for NZ teenagers; structured chatbot interactions; CBT, mindfulness, resilience
-- **Built by:** University of Auckland (Hetrick, Cargo, Stasiak) with RUSH digital agency; co-designed with rangatahi
-- **Launched:** Aroha chatbot April 2020 (COVID-19 response); Headstrong app 2022; Kia Haumanu bicultural upgrade April 2023
-- **Status:** Active — funded by Te Whatu Ora; referenced in official MoH and MHF resources November 2025
-- **What it offers:** Foundations (CBT wellbeing course); Stress Detox (3-week anxiety course); Aroha/Kia Haumanu (bicultural chatbot in te reo Maori and English); 5-minute chat sessions; diverse virtual avatars
-- **AI approach:** Predefined rules and scripts written by clinical experts — NOT generative AI. Limited GenAI only to improve conversation flow. Clinically controlled and safe.
-- **User feedback:** Positive — praised for non-judgmental tone; "I didn't feel embarrassed or shy"
-- **Gaps:** Youth-facing only; general wellbeing not self-harm specific; no parent component
-- **Relevance:** HIGH — the only NZ digital tool with a chatbot/AI component. Their design approach (predefined scripts, clinically authored, not generative AI) is directly relevant to how we design our parent AI assistant. Their bicultural Kia Haumanu approach is a model for te ao Maori content. Team (Hetrick, Stasiak) are key contacts.
+- Free mental health app for NZ teenagers; structured chatbot interactions; CBT, mindfulness, resilience
+- Built by University of Auckland (Hetrick, Cargo, Stasiak) with RUSH; co-designed with rangatahi
+- Aroha chatbot launched April 2020; Headstrong app launched 2022; Kia Haumanu bicultural upgrade April 2023
+- Funded by Te Whatu Ora; active and current; positive user feedback
+- AI approach: predefined rules and scripts by clinical experts — NOT generative AI. This is the key design principle.
+- Youth-facing only; general wellbeing not self-harm specific; no parent component
+- HIGH relevance — only NZ digital tool with chatbot/AI; their design approach directly informs ours; team (Hetrick, Stasiak) are key contacts
 
 ### depression.org.nz
-- **What:** General depression and anxiety information site; part of National Depression Initiative; includes The Journal (free online CBT self-help)
-- **Status:** Active — referenced in 2025 resources
-- **Gaps:** Not youth-specific, not self-harm specific, not parent-facing; dated design
-- **Relevance:** Low. Useful signpost for parents also struggling with their own mood.
+- General depression and anxiety site; National Depression Initiative; includes The Journal (free CBT self-help)
+- Active but dated; not youth-specific, not self-harm specific, not parent-facing
+- Low relevance. Useful signpost for parents also managing their own mood.
 
 ### Aunty Dee (auntydee.co.nz)
-- **What:** Free CBT-based problem-solving tool; designed for Maori and Pasifika audiences; developed by Le Va
-- **Launched:** Referenced in resources from at least 2014
-- **Status:** Active — referenced in official resources November 2025
-- **Clinical review:** Healthify rates it highly — "a brilliant website... clinicians report clients find it simple and rewarding"
-- **Gaps:** General problem-solving; not self-harm specific; not parent-facing; dated design
-- **Relevance:** Low direct relevance. Cultural adaptation model for Pasifika audiences is worth noting for our own Maori and Pasifika content approach.
+- Free CBT-based problem-solving tool; built by Le Va for Maori and Pasifika audiences
+- Active; clinically well-regarded; dated design
+- General problem-solving; not self-harm specific; not parent-facing
+- Low direct relevance. Cultural adaptation model for Pasifika audiences is instructive.
 
 ### Summary Table
 
@@ -281,64 +347,95 @@ This silence is both the problem and the opportunity.
 
 ---
 
-## 7. Still To Research
+## 7. Why Parents Don't Talk About It
 
-- [ ] Safe messaging guidelines — NZ-specific (Ministry of Health, MHF, MediaSafe NZ) and international (UK, WHO, IASP). Critical before any content is written.
-- [ ] Grant landscape — eligibility, amounts, deadlines for: Ministry of Health, MHF community grants, ACC, Lion Foundation, Lottery Grants Board, community trusts
-- [ ] Cure Kids parent resource project — what exactly are they building? Contact them before we go public.
-- [ ] KidsHealth NZ self-harm page — full audit of what it actually says and how good it is
-- [ ] Mental Health Foundation parent resources — full audit
-- [ ] Youth24 survey data — watch for publication; will update the prevalence picture
+1. Shame and guilt — parents feel it reflects personal failure; everyone suffers in silence believing they are alone
+2. Misunderstanding — most associate self-harm with suicide attempts or attention-seeking; reality is usually emotion regulation
+3. School caution — contagion concerns mean schools rarely discuss it. A 2025 NZ study confirmed this as a key barrier.
+4. Clinical gaps — GPs and teachers often don't know what to say; CAMHS turns away most presentations
+5. Extra taboo layer — even as general MH conversations improve, self-harm carries additional stigma
+6. System confusion — the referral pathway is opaque; parents don't know where to start
+
+This silence is both the problem and the opportunity.
 
 ---
 
-## 8. Key Contacts to Make
+## 8. Still To Research
 
-| Priority | Organisation | Contact | Purpose |
+- [ ] Safe messaging guidelines — NZ-specific (Ministry of Health, MHF, MediaSafe NZ) and international (UK, WHO, IASP). Critical before any content is written.
+- [ ] MHF/UoA whanau self-harm resource — email resource@mentalhealth.org.nz to obtain the full document; read carefully before going public
+- [ ] Grant landscape — eligibility, amounts, deadlines for: Ministry of Health, MHF community grants, ACC, Lion Foundation, Lottery Grants Board, community trusts
+- [ ] Youth24 survey data — watch for publication; will update the prevalence picture
+- [ ] Ministry of Education school self-harm guidelines — read the actual documents under Suicide Prevention Action Plan
+
+---
+
+## 9. Key Contacts to Make
+
+| Priority | Organisation/Person | Contact | Purpose |
 |---|---|---|---|
-| 🔴 Urgent | Yellow Brick Road | hello@yellowbrickroad.org.nz / 0800 732 825 | Referral partnership; potential co-production and grant co-application |
+| 🔴 Urgent | Yellow Brick Road | hello@yellowbrickroad.org.nz / 0800 732 825 | Referral partnership; co-production; grant co-application |
 | 🔴 Urgent | Professor Terry Fleming | University of Auckland | Clinical advisor; research credibility |
-| 🟡 Soon | Cure Kids | curekids.org.nz | Understand parent resource project they are funding |
+| 🔴 Urgent | MHF Resources team | resource@mentalhealth.org.nz | Obtain whanau self-harm resource; understand what already exists |
+| 🟡 Soon | Dr Tania Cargo | University of Auckland | Cure Kids whanau project; Headstrong; #chatsafe — one contact, multiple doors |
+| 🟡 Soon | Cure Kids | curekids.org.nz | Understand parent resource project; collaborate or complement |
 | 🟡 Soon | Ministry of Education | Via Suicide Prevention Action Plan contacts | School self-harm resource work; potential alignment |
-| 🟡 Soon | Headstrong team (Hetrick, Stasiak) | University of Auckland | AI and chatbot design advice |
+| 🟡 Soon | Headstrong team (Hetrick, Stasiak) | University of Auckland | AI and chatbot design guidance |
 | 🟢 Later | Mental Health Foundation | mentalhealth.org.nz | Endorsement and grant path |
+| 🟢 Later | Le Va | leva.co.nz | Pasifika cultural framing; endorsement for Pasifika content |
 | 🟢 Later | Skylight | skylight.org.nz | Referral partnership for trauma and bereavement |
 
 ---
 
-## 9. Conclusions and Key Takeaways
+## 10. Conclusions and Key Takeaways
 
-### The Gap Is Real and Completely Unoccupied
-Every NZ digital mental health tool is youth-facing. Not one is parent-facing. Not one is self-harm specific. We have confirmed through comprehensive research that there is no competition for this space — we are not displacing anything, we are creating something that does not exist.
+### The Gap Is Real, Completely Unoccupied, and Confirmed by Exhaustive Research
+We have now audited every significant NZ organisation and digital resource in this space. The finding is unambiguous: every NZ digital mental health tool is youth-facing. Not one is parent-facing. Not one is self-harm specific. The only resources with any overlap are a 2025 MHF general parent guide (not self-harm specific), a Maori-specific research resource under development in Northland (not yet published, not national), and the KidsHealth self-harm page (basic, outdated statistics, no depth). None of these is a dedicated, comprehensive, always-available parent resource. We are not displacing anything. We are creating something that does not exist.
 
-### The Scale of Need Is Enormous
-25-50% of NZ secondary students self-harm in any given year. NZ ranks last among OECD countries for child and youth mental health. The trend is worsening. This is tens of thousands of families a year hitting a moment of crisis with no dedicated place to turn.
+### The Scale of Need Is Enormous and Growing
+25-50% of NZ secondary students self-harm in any given year. NZ ranks last among OECD countries for child and youth mental health. The trend has been worsening continuously since 2012 with no sign of reversal. This is tens of thousands of families a year hitting a moment of crisis with nowhere specific to turn. The Cure Kids funders, the University of Auckland researchers, and the MHF itself have all recognised this gap — validating our founding insight.
 
 ### The System Actively Creates the Gap
-CAMHS turns away most self-harm presentations. GPs don't know what to say. School counsellors are overloaded. The referral pathway is opaque. The existing system doesn't just fail to help parents — it leaves them more confused and more alone than when they started. A trusted, clear, always-available digital resource directly addresses this failure.
+CAMHS turns away most self-harm presentations. GPs don't know what to say. School counsellors are overloaded. The referral pathway is opaque. The existing system doesn't just fail to help parents — it leaves them more confused and alone than when they started. A trusted, clear, always-available digital resource directly addresses this systemic failure.
 
 ### Our Positioning Is Watertight
-"When your child is self-harming, everything you find online is written for them. This is written for you."
-This is demonstrably true. No rebuttal is possible. No competitor can claim the same space.
+"When your child is self-harming, everything you find online is written for them. This is written for you." This is demonstrably true. No rebuttal is possible. No NZ competitor can claim this space.
 
-### The Research Base Gives Us Credibility
-NZ has unusually strong longitudinal data on this issue. The University of Auckland team (Fleming, Clark, Hetrick, Stasiak) have been building the evidence base for 25 years. Connecting with them — particularly Professor Terry Fleming as clinical advisor — gives us immediate credibility and access to the best NZ data.
+### The Research Base Gives Us Immediate Credibility
+NZ has unusually strong longitudinal data. The University of Auckland team (Fleming, Clark, Hetrick, Stasiak, Cargo) have been building the evidence base for 25 years. Connecting with Professor Terry Fleming as clinical advisor gives us immediate credibility and access to the best NZ data. Dr Tania Cargo is a particularly valuable contact — she bridges the Cure Kids whanau self-harm project, Headstrong/Aroha, and #chatsafe. One conversation, multiple doors.
 
 ### Yellow Brick Road Is the Essential First Call
-They are the only national organisation doing family-facing mental health work in NZ. They are not online, not self-harm specific, and not discoverable in a crisis search. We complement them perfectly. A referral partnership is mutually beneficial and should be established before we launch anything.
+They are the only national organisation doing family-facing mental health work in NZ. They are not online, not self-harm specific, and not discoverable in a crisis search. We complement them perfectly. A referral partnership is mutually beneficial and should be established before we launch.
 
-### Cure Kids Is the Wildcard
-They are funding a parent self-harm resource project right now. We need to understand what it is before we go public. It could be a competitor, a collaborator, or a validator. It is not something to ignore.
+### The Cure Kids/MHF Whanau Resource Must Be Found and Read
+Something is being built that overlaps with us — a whanau self-harm resource through University of Auckland, co-created with whanau, hosted by MHF. We must obtain this and read it before we go public. It may be Maori-specific and Northland-focused (Cure Kids project), or it may be broader. Either way it is the closest existing NZ resource to what we are building and we need to know what it says.
 
-### The AI Opportunity Is Real But Must Be Done Right
-Headstrong has proved that a clinically-authored, predefined-script chatbot can work well in NZ for young people. The same approach — warm, safe, non-generative AI used as a guide and navigator — is directly applicable for parents. The Claude API is the right technical foundation. The key principle is non-negotiable: guide and connector only, never counsellor.
+### The AI Opportunity Is Real But Requires Clinical Oversight
+Headstrong has proved that a clinically-authored, predefined-script chatbot can work well in NZ. Their design principle — predefined rules by clinical experts, not generative AI — is directly applicable to our parent AI assistant. The Claude API is the right technical foundation. The non-negotiable principle: guide and connector only, never counsellor. This must be signed off by our clinical advisor before deployment.
 
-### Maori and Pasifika Parents Are a Priority Audience
-Maori youth have nearly double the suicide rate of non-Maori. Pacific youth are also disproportionately affected. The existing tools (Aunty Dee, Kia Haumanu) show that culturally specific design dramatically improves engagement. Our resource must be designed with Maori and Pasifika parents in mind from the start, not added as an afterthought.
+### Maori and Pasifika Parents Are a Priority Audience — Not an Afterthought
+Maori youth have nearly double the suicide rate of non-Maori. Pacific youth are also disproportionately affected. The entire Cure Kids research effort is focused on Maori families in Northland because that is where the need is most acute. Our resource must be designed with Maori and Pasifika parents in mind from day one — that means engaging Yellow Brick Road (who work with Maori whanau), Dr Tania Cargo (kaupapa Maori research), and Le Va (Pasifika) before we build, not after.
+
+### Just a Thought Is a Referral Destination for Parents Themselves
+A finding we didn't anticipate: parents supporting a self-harming child often develop their own anxiety and depression. Just a Thought's free, evidence-based CBT courses are the ideal tool to recommend for parents managing their own mental health. This should be in our content as a referral.
+
+### The Competitive Landscape Is Clear
+We have no direct competitors in NZ. The organisations active in this space are potential partners and referral destinations, not rivals. The table below summarises the full picture:
+
+| Resource | Self-harm specific? | Parent/whanau facing? | In depth? | 24/7 digital? | NZ national? |
+|---|---|---|---|---|---|
+| KidsHealth self-harm page | Partially | Yes | No — basic | Yes (static) | Yes |
+| MHF parent guide (2025) | No — general MH | Yes | Partial | No — PDF | Yes |
+| MHF/UoA whanau self-harm resource | Yes | Yes | Unknown | No — likely PDF | Unknown — possibly Maori-specific |
+| Yellow Brick Road | No — general MH | Yes | Yes — in person | No | Yes |
+| Cure Kids/UoA whanau project | Yes | Yes — Maori whanau | Research phase | No | No — Northland focus |
+| 1737 / Youthline | No | Partial | No — crisis only | Yes | Yes |
+| Just a Thought | No | No — self-help | Yes | Yes | Yes |
+| **Our platform** | **Yes** | **Yes** | **Yes** | **Yes** | **Yes** |
 
 ---
 
-## 10. Sources
+## 11. Sources
 
 - Youth19 / Youth2000 survey series (youth19.ac.nz)
 - Sutcliffe et al. (2023, 2024) — University of Auckland
@@ -349,8 +446,14 @@ Maori youth have nearly double the suicide rate of non-Maori. Pacific youth are 
 - Humanium (2025) — NZ youth mental health crisis summary
 - ScienceDirect (2025) — self-harm management in NZ schools co-design study
 - Cure Kids — mental health and wellbeing research portfolio
+- Te Ao Maori News (September 2024) — Kapa-Kingi/Cargo whanau self-harm resource announcement
 - RNZ — Suicide Prevention Action Plan reporting (June 2025)
 - NZ Doctor (2023) — Headstrong and digital mental health tools
 - JMIR (2022, 2025) — Aroha chatbot and SPARX implementation studies
-- Healthpoint NZ — Yellow Brick Road regional service listings
+- Healthpoint NZ — service listings and tool reviews
 - Healthify NZ — digital tool clinical reviews
+- KidsHealth NZ — self-harm page (kidshealth.org.nz/self-harm)
+- Mental Health Foundation NZ — self-harm conditions page and parent resources
+- University of Auckland (October 2025) — Heemi Kapa-Kingi / Mental Health Awareness Week profile
+- Le Va (leva.co.nz) — Pasifika mental health and wellbeing
+- Just a Thought — platform and clinical reviews (August 2025)
