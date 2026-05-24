@@ -1,33 +1,26 @@
-# Decisions Log
+# AI in Mental Health & Education Platforms
 
-All key project decisions — what was decided, when, and why.
-
----
-
-## May 2026
-
-### Collaboration Model
-**Decision:** Use shared GitHub repo as single source of truth. Both partners work from their own Claude accounts, loading STEERING.md + relevant working files at the start of each session.  
-**Rationale:** Claude Projects are personal/non-shareable. GitHub repo gives version control, shared access, and works cleanly as Claude context.
-
-### Revenue Model
-**Decision:** Mixed model — grants + school licensing + paid courses. No advertising.  
-**Rationale:** Advertising would undermine trust on a sensitive topic. Mixed model provides sustainability without compromising integrity.
-
-### Primary Audience
-**Decision:** Parents/whānau first. Not young people directly.  
-**Rationale:** This is the documented gap. Young people have some resources; parents have almost nothing specific to self-harm.
-
-### Phase Model
-**Decision:** Phase 1 (free resource) → Phase 2 (school licensing) → Phase 3 (courses/community)  
-**Rationale:** Build trust and audience before monetising. Schools are a B2B revenue path that doesn't compromise the free resource.
+Last updated: May 2026  
+Status: First pass complete — landscape mapped, key risks and opportunities identified
 
 ---
 
-## Pending Decisions
+## Why This Matters for Our Project
 
-- Working name / brand
-- Legal/entity structure (charitable trust vs incorporated society vs company)
-- Clinical advisor (who)
-- Technology stack
-- AI on site — yes/no/how
+People access this resource at challenging moments — late at night, in shock, frightened. A well-designed AI assistant on the site could:
+
+- Guide parents to the most relevant content for their situation
+- Provide a warm, non-judgmental first point of contact
+- Reduce the overwhelming feeling of "where do I start"
+- Be available 24/7 when human support isn't
+
+This is potentially a genuine differentiator — most existing resources are static. But it carries real risks and requires careful design.
+
+---
+
+## The Current Landscape (May 2026)
+
+### Scale of AI in Mental Health
+- One in three people have used an AI chatbot for emotional support (National Academy of Medicine, Jan 2026)
+- The APA issued a formal health advisory (Nov 2025) warning that GenAI chatbots were not created to
+- 
