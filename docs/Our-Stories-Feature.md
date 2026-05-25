@@ -63,6 +63,23 @@ Before any story goes live, a human reviews it. This is non-negotiable. The mode
 ### 5. Publication
 The story goes live in the Our Stories section — attributed only as the parent chooses (e.g. "A mum from Auckland" or "Anonymous").
 
+
+The Participation Model — Things to Consider
+The current design assumes a fully anonymous, single-session experience. That is the right default — lowest barrier, maximum accessibility. But there is a design tension worth resolving before build:
+The tension: A fully anonymous process protects privacy and removes friction. A light relationship with the parent unlocks review, consent, follow-up, research value, and the possibility of deeper engagement over time. These are not mutually exclusive.
+A progressive model may be the answer — the parent chooses how far in they want to go:
+Level 1 — Fully anonymous
+Tell your story, Claude shapes it, human moderates it, it goes live. No account, no email, no follow-up. Maximum accessibility, minimum data. Right for parents who are not ready for anything more.
+Level 2 — Light touch
+Email address only, offered at the end of the conversation — framed as "so we can send you the draft to review before anything goes live." The parent can edit, approve, or withdraw. Optional follow-up check-in a few days later. This feels like a reasonable ask and actually serves the parent. It also gives the project a consent trail and the beginning of a relationship.
+Level 3 — Research opt-in
+Explicit, separate consent for anonymised themes from their story to contribute to aggregated research. This is the layer with value for grant applications, the clinical advisor partnership, and policy advocacy. Never assumed, never bundled with publication consent.
+The email address at Level 2 is the unlock. It's not a significant ask in context — "leave your email so we can send you the draft" serves the parent directly. But it opens the door to the research layer, future community involvement, course participation, and peer support roles.
+Questions for clinical review:
+
+Is a follow-up check-in after story-sharing clinically advisable — or does it risk re-opening something the parent has processed and moved on from?
+What does genuinely informed consent look like for the research layer — what must it say, and what must it not assume?
+Should Level 1 (fully anonymous) always remain available, or are there clinical reasons to require at least a light touch relationship before publication?
 ---
 
 ## The Data Layer
